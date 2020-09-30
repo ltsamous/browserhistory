@@ -1,0 +1,37 @@
+body{
+  font-family: 'Open Sans', 'Optima';
+  color: darkblue;
+  background-color: Ivory;
+  margin: 10px 50px 10px 50px;
+}
+h1, h2 {
+  font-family: 'Oswald', 'SansSerif';
+}
+
+img {
+  float: left;
+  margin: 10px;
+}
+.left{
+  float: left;
+  width: 300px;
+  padding: 10px
+}
+.right{
+  float: right;
+  width: 300px;
+  padding: 10px
+}
+
+.center {
+  margin-right: 300px;
+  margin-left: 300px;
+  padding: 10px;
+}
+#navbar ul {
+  list-style-type: none;
+}
+#navbar li {
+  display: inline;
+  margin: 5px
+}
